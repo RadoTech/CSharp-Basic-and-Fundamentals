@@ -1,2 +1,2 @@
-# CSharp-Basics-SoftwareUniversity
+# CSharp-SoftwareUniversity
 C# Development track
