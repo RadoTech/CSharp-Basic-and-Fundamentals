@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterSequence", "CharacterSequence.csproj", "{4978AFC1-11BC-410F-855B-3E7865B3444D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4978AFC1-11BC-410F-855B-3E7865B3444D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4978AFC1-11BC-410F-855B-3E7865B3444D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4978AFC1-11BC-410F-855B-3E7865B3444D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4978AFC1-11BC-410F-855B-3E7865B3444D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D982B6E1-D4A2-4DD9-A5D0-7EE6F0FDED0C}
+	EndGlobalSection
+EndGlobal
