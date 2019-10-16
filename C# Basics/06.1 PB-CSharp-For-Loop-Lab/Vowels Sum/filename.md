@@ -1,3 +1,5 @@
+
+4. Summing the alphabets:
 Write a program, which reads a text(string), entered by the user and calculate and print out the the sum of the vowel values according to the table below:
 
 letter:	    a	e	i	o	u
