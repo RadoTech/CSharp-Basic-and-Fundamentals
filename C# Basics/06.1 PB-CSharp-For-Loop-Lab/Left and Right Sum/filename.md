@@ -1,1 +1,1 @@
-
+Write a program that reads the 2 * n-number of integers given by the user and checks that the sum of the first n numbers (left sum) is equal to the sum of the second n numbers (right sum). If equality print "Yes, sum =" + sum; otherwise it prints "No, diff =" + the difference. The difference is calculated as a positive number (by absolute value).
