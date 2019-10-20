@@ -1,4 +1,4 @@
-5. Histogram
+5. Histogram:
 N integers are given in the interval [1… 1000]. Of these, some percent of p1 are below 200, another percent of p2 is 200 to 399, another percent of p3 is 400 to 599, another percent of p4 is 600 to 799, and the remaining p5 percent is 800 up. Write a program that calculates and prints the percentages p1, p2, p3, p4, and p5.
 Example: we have n = 20 numbers: 53, 7, 56, 180, 450, 920, 12, 7, 150, 250, 680, 2, 600, 200, 800, 799, 199, 46, 128, 65. We get the following distribution and visualization:
 Диапазон	Числа в диапазона	Брой числа	Процент
