@@ -1,7 +1,7 @@
 The head of the company notes that more and more employees are spending time on sites that scatter them.
 To prevent this, he introduces surprising checks on his employees' open browser tabs.
 According to the site, different fines are imposed:
-• "Facebook" -> 150 BGN
+• "Facebook" -> $ 150 
 • "Instagram" -> $ 100
 • "Reddit" -> $ 50
 Two lines are read from the console:
