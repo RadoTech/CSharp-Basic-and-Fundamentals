@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameWars", "NameWars.csproj", "{FB1FC11B-EC47-4BCF-A7A9-2D490644AADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB1FC11B-EC47-4BCF-A7A9-2D490644AADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1FC11B-EC47-4BCF-A7A9-2D490644AADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1FC11B-EC47-4BCF-A7A9-2D490644AADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1FC11B-EC47-4BCF-A7A9-2D490644AADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A26BA99-76FC-4108-A141-45CA1B5A6022}
+	EndGlobalSection
+EndGlobal
