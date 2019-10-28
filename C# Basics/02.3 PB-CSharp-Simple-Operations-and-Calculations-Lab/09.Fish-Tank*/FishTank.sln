@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishTank", "FishTank.csproj", "{AAF18CBA-3FFC-48DD-A020-E816437EAD31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAF18CBA-3FFC-48DD-A020-E816437EAD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF18CBA-3FFC-48DD-A020-E816437EAD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF18CBA-3FFC-48DD-A020-E816437EAD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF18CBA-3FFC-48DD-A020-E816437EAD31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5BD9C79-74BE-4492-B871-91B2FA942407}
+	EndGlobalSection
+EndGlobal
