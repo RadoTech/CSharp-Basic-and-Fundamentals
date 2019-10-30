@@ -9,18 +9,18 @@ Toy prices:
 If the toys ordered are 50 or more, the store discounts 25% of the total price. From the money earned, Petya has to give 10% of the rent to the store. Calculate if the money will go to her for a trip.
 Sign in
 The console reads 6 lines:
-1. Price of the excursion - real number in the interval [1.00… 10000.00]
-2. Number of puzzles - integer in the range [0… 1000]
-3. Number of talking dolls - integer in the range [0… 1000]
-4. Number of teddy bears - integer in the range [0… 1000]
-5. Number of minions - integer in the range [0… 1000]
-6. Number of lorries - integer in the range [0… 1000]
+• Price of the excursion - real number in the interval [1.00… 10000.00]
+• Number of puzzles - integer in the range [0… 1000]
+• Number of talking dolls - integer in the range [0… 1000]
+• Number of teddy bears - integer in the range [0… 1000]
+• Number of minions - integer in the range [0… 1000]
+• Number of lorries - integer in the range [0… 1000]
 Exit
 The console prints:
 • If enough money is printed:
-o "Yes! {leftover money} lv left."
+• "Yes! {leftover money} lv left."
 • If the money is NOT sufficient, the following is printed:
-o "Not enough money! {needed money} lv needed."
+• "Not enough money! {needed money} lv needed."
 The result should be formatted to the second character after the decimal point.
 Example input and output:
 Input:
