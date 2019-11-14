@@ -9,9 +9,9 @@ Until December 22 inclusive, there are the following discounts that apply in the
 • Until December 15 inclusive, 10% discount on the final price
 Input:
 The console reads 3 lines:
-1. Sweets - text - "Cake", "Souffle" or "Baklava"
-2. Number of pastries ordered - integer in the range [1… 10000]
-3. December Day Before Christmas - Integer [1… 24]
+a. Sweets - text - "Cake", "Souffle" or "Baklava"
+b. Number of pastries ordered - integer in the range [1… 10000]
+c. December Day Before Christmas - Integer [1… 24]
 Output:
 The 1st console is printed on the console:
 • Price to be paid, formatted to the second decimal place
