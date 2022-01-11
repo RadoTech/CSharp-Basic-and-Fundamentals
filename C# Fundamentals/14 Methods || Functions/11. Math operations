@@ -1,0 +1,32 @@
+using System;
+using System.Linq;
+
+namespace Math Operations
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double result = CalculateNumbers();
+            Console.WriteLine(result);
+        }
+        static double CalculateNumbers()
+        {
+            double firstNum = double.Parse(Console.ReadLine());
+            char operat0r = char.Parse(Console.ReadLine());
+            double secondNum = double.Parse(Console.ReadLine());
+            double result = 0;
+
+            switch (operat0r)
+            {
+                case '+': result = firstNum + secondNum; break;
+                case '-': result = firstNum - secondNum; break;
+                case '*': result = firstNum * secondNum; break;
+                case '/': result = firstNum / secondNum; break;
+                default: break;
+            }
+
+            return result;
+        }
+    }
+}
