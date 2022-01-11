@@ -1,0 +1,31 @@
+using System;
+using System.Linq;
+
+namespace Printing Triangle
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int rows = int.Parse(Console.ReadLine());
+
+            for (int row = 1; row <= rows; row++)
+            {
+                printFigure(row);
+            }
+            for (int row = rows-1; row >= 1; row--)
+            {
+                printFigure(row);
+            }
+        }
+
+        static void printFigure(int row)
+        {
+            for (int col = 1; col <= row; col++)
+            {
+                Console.Write($"{col} ");
+            }
+            Console.WriteLine();
+        }
+      }
+}
